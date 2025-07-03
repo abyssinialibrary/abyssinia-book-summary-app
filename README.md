@@ -1,1 +1,0 @@
-# abyssinia-book-summary-app
